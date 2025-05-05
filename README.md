@@ -36,9 +36,9 @@ Generative AI learns by studying huge amounts of data. For example, if you want 
 
 🟢Large Language Models (LLMs): Trained on text data to understand and generate human-like responses.
 
-## What Can Generative AI Do?
+# What Can Generative AI Do?
 
-# Generative AI can do a lot of creative and useful tasks:
+## Generative AI can do a lot of creative and useful tasks:
 
 🔹Text Creation:
 
@@ -86,9 +86,9 @@ Runway ML — Helps edit and generate video
 
 Suno AI — Creates AI-powered music and voices
 
-## Why is Generative AI Important?
+# Why is Generative AI Important?
 
-# Generative AI offers many benefits:
+## Generative AI offers many benefits:
 
 Saves time — Helps finish tasks faster
 
@@ -120,7 +120,7 @@ Ethical Considerations: Using Generative AI Responsibly:
 
 With powerful technology comes serious responsibility. While Generative AI opens exciting possibilities, it also raises important ethical questions and challenges.
 
-## Final Thoughts: Embracing the Future of AI Creatively:
+# Final Thoughts: Embracing the Future of AI Creatively:
 
 Generative AI is more than just a tool — it’s a revolutionary force reshaping how we create, communicate, and solve problems.
 
@@ -130,6 +130,6 @@ The future of creativity is here. Now is the time to learn, experiment, and lead
 
 ## 📝Disclaimer: This article is for educational and informational purposes only. The content reflects the author’s understanding and interpretation of Generative AI at the time of writing. Readers are encouraged to explore additional sources and verify current developments, as AI technologies continue to evolve rapidly.
 
-## 🖋️ Curated, Researched, and Written by Asia parveen
+# 🖋️ Curated, Researched, and Written by Asia parveen
 
-## Student Leader in GIAIC Full Stack Developer | Frontend Developer React.js| Next.js | JavaScript |Python Developer | AI Developer|Generative AI Developer|MongoDB
+# Student Leader in GIAIC Full Stack Developer | Frontend Developer React.js| Next.js | JavaScript |Python Developer | AI Developer|Generative AI Developer|MongoDB
