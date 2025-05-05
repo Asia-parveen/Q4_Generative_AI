@@ -3,8 +3,6 @@ Q4-Learning:
 Generative AI: A Research Report
 Asia parveen
 
-
-
 Explored & Expressed by: Asia Parveen
 
 “Can a computer write a poem? Can it paint like an artist or compose music?”
