@@ -1,4 +1,5 @@
 Q4-Learning:
+![Banner Image](Generative AI.png)
 
 Generative AI: A Research Report
 Asia parveen
