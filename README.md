@@ -100,7 +100,7 @@ Personalization: Tailors content to individual preferences.
 
 Multidisciplinary Use: Applicable in education, business, design, healthcare, and more.
 
-The Future Scope of Generative AI:
+# The Future Scope of Generative AI:
 
 Generative AI is still growing. In the coming years, we may see:
 
