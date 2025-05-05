@@ -2,7 +2,6 @@
 ![Banner image](GenerativeAI.png)
 
 # Generative AI: A Research Report
-## Asia parveen
 
 # Explored & Expressed by: Asia Parveen
 
