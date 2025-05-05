@@ -130,6 +130,6 @@ The future of creativity is here. Now is the time to learn, experiment, and lead
 
 ## 📝Disclaimer: This article is for educational and informational purposes only. The content reflects the author’s understanding and interpretation of Generative AI at the time of writing. Readers are encouraged to explore additional sources and verify current developments, as AI technologies continue to evolve rapidly.
 
-# 🖋️ Curated, Researched, and Written by Asia parveen
+## 🖋️ Curated, Researched, and Written by Asia parveen
 
-# Student Leader in GIAIC Full Stack Developer | Frontend Developer React.js| Next.js | JavaScript |Python Developer | AI Developer|Generative AI Developer|MongoDB
+ Student Leader in GIAIC Full Stack Developer | Frontend Developer React.js| Next.js | JavaScript |Python Developer | AI Developer|Generative AI Developer|MongoDB
