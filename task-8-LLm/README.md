@@ -47,20 +47,13 @@ LLMs learn the **patterns** of language from a large dataset. They don’t memor
 | 💻 Code Generation   | Write and explain code in multiple programming languages.                   |
 | 🧪 Reasoning         | Perform logical reasoning and inference. 
 
-## 🔄 Real-World Example
 
-**Input:**
-> Write a Python function that prints "Hello, AI World!"
+## 🔗  LLMs + Agentic AI SDK
 
-**LLM Output:**
-```python
-def greet():
-    print("Hello, AI World!")
-
-🔗  LLMs + Agentic AI SDK
 LLMs can be used inside tools like Agentic AI SDK, which gives LLMs the power to perform actions, not just generate text.
 
-Example Workflow:
+**Example Workflow:**
+
 User says: "Email this report to the manager"
 
 LLM generates the email content
@@ -69,7 +62,8 @@ Agentic SDK sends the email using real APIs
 
 This makes LLMs autonomous and capable of performing real-world tasks.
 
-💼  Applications in the Real World
+## 💼  Applications in the Real World
+
 Industry	Use Case Example
 
 💻 Tech	Auto code completion, debugging assistants
@@ -78,7 +72,7 @@ Industry	Use Case Example
 🛍️ E-commerce	Product description generation, chat support
 📊 Business	Report generation, email drafting, decision support
 
-📌 Summary of LLMs
+## 📌 Summary of LLMs
 
 LLM stands for Large Language Model
 
