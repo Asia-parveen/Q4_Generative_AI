@@ -39,12 +39,18 @@ LLMs learn the **patterns** of language from a large dataset. They don’t memor
 
 | Task                | Description                                                                 |
 |---------------------|-----------------------------------------------------------------------------|
-| 📝 Text Generation  | Generate essays, stories, blog posts, and more.                             |
-| 💬 Chatbots         | Create intelligent conversational agents.                                   |
-| 🔍 Question Answering | Answer factual or conceptual questions accurately.                         |
-| 🔁 Translation       | Translate text between different languages.                                 |
-| 🧾 Summarization     | Summarize long texts into short, concise points.                           |
-| 💻 Code Generation   | Write and explain code in multiple programming languages.                   |
+| 📝 Text Generation  | Generate essays, stories, blog posts, and more.  
+|
+| 💬 Chatbots         | Create intelligent conversational agents.    
+|
+| 🔍 Question Answering | Answer factual or conceptual questions accurately.  
+|
+| 🔁 Translation       | Translate text between different languages.  
+|
+| 🧾 Summarization     | Summarize long texts into short, concise points. 
+|
+| 💻 Code Generation   | Write and explain code in multiple programming languages. 
+|
 | 🧪 Reasoning         | Perform logical reasoning and inference. 
 
 
