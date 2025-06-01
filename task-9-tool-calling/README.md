@@ -37,47 +37,56 @@ Feature	Benefit
 
 ## 5. 🔍 Key Features of Tool Calling
 
-# 📌 1. Auto Tool Selection
+**📌 1. Auto Tool Selection**
 Agents decide automatically when a tool is required.
 
-# 📌 2. Multiple Tool Support
+**📌 2. Multiple Tool Support**
 You can register and use more than one tool in the same agent.
 
-# 📌 3. Custom Parameters
+**📌 3. Custom Parameters**
 Each tool supports structured parameters using JSON schema.
 
-# 📌 4. Built-in & Custom Tools
+**📌 4. Built-in & Custom Tools**
 Use built-in tools (like retrieval, code interpreter) or build your own.
 
-# 📌 5. Seamless Conversation Flow
+**📌 5. Seamless Conversation Flow**
 Tool results are automatically merged into natural replies.
 
 ## 6. 📊 Tool Calling Architecture: 
 
-┌──────────────┐
-│  User Input  │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ OpenAI Agent │
-└──────┬───────┘
-       ↓
-┌─────────────────────────────┐
-│ Does it need a tool? (Yes)  │
-└──────┬─────────────┬────────┘
-       ↓             ↓
-┌─────────────┐   ┌────────────┐
-│ Tool Call   │   │ Direct Text│
-│ (e.g., API) │   │ Response   │
-└────┬────────┘   └────┬───────┘
-     ↓                 ↓
-┌──────────────┐  ┌─────────────┐
-│ Tool Output  │  │ Final Reply │
-└──────┬───────┘  └─────────────┘
-       ↓
-┌────────────────┐
-│  User Sees It  │
-└────────────────┘
+
+🔹 Step 1: User Input
+The user types a message or question (e.g., “What’s the weather in Lahore?”).
+
+🔹 Step 2: Message Goes to OpenAI Agent
+The user’s input is passed to the OpenAI Agent, which processes the request.
+
+🔹 Step 3: Decision Point – Does the Agent Need a Tool?
+The agent evaluates whether it can answer directly or needs to call a tool (such as an API or function) to get the correct response.
+
+If no tool is needed, it goes straight to generating a direct text response.
+
+If a tool is needed, the agent moves on to tool calling.
+
+🔹 Step 4: Tool Calling
+If required, the agent selects the right tool (e.g., a weather API function) and supplies it with the appropriate input parameters.
+
+Example:
+The agent calls a tool named getWeather with parameter { city: "Lahore" }.
+
+🔹 Step 5: Tool Output
+The tool executes and returns a result (e.g., "It is 32°C in Lahore with light rain").
+
+🔹 Step 6: Final Reply Generation
+The agent combines the tool’s output with natural language to generate a user-friendly response.
+
+Example:
+“It’s currently 32°C with light rain in Lahore.”
+
+🔹 Step 7: User Receives the Response
+The final reply is sent back to the user in the chat interface or application.
+
+This flow ensures that responses are accurate, personalized, and based on real-time external data—all thanks to intelligent tool calling decisions made by the agent.
 
 ## 7. 🧩 Real-life Use Cases
 
